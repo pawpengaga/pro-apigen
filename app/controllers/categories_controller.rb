@@ -36,6 +36,7 @@ class CategoriesController < ApplicationController
   # DELETE /categories/1
   def destroy
     @category.destroy!
+    render json: "Eliminado...", status: :ok
   end
 
   private

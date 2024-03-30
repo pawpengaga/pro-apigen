@@ -4,16 +4,21 @@
             "name": "Drawing and Pencils"
         }
     },
+    {
+        "brand":{
+            "name": "Test CO"
+        }
+    },
 
     {
         "product":{
-            "name": "test pencil",
+            "name": "Test Pencil",
             "description": "A pencil made with testing purposes",
-            "brand": "Test CO.",
             "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/29/4/faber-castell-9000-lapiz-grafito-disponible-en-16-graduaciones-cf4/Faber-Castell-9000-(Lapiz-Grafito)-(Disponible-en-16-Graduaciones)-30.png",
             "price": 1692,
             "stock": 40,
-            "category_id": 1
+            "category_id": 1,
+            "brand_id": 2
         }
     }
 ]
