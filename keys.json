@@ -12,13 +12,235 @@
 
     {
         "product":{
-            "name": "Test Pencil",
-            "description": "A pencil made with testing purposes",
+            "name": "Faber-Castell 9000 (Lapiz Grafito)",
+            "description": "El CASTELL 9000 - el genuino lápiz clásico - fue lanzado por el Conde Alexander von Faber-Castell en 1905",
             "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/29/4/faber-castell-9000-lapiz-grafito-disponible-en-16-graduaciones-cf4/Faber-Castell-9000-(Lapiz-Grafito)-(Disponible-en-16-Graduaciones)-30.png",
             "price": 1692,
             "stock": 40,
             "category_id": 1,
             "brand_id": 2
         }
-    }
+    },
+    {
+        "product":{
+            "name": "Rotring Art Pen",
+            "description": "Plumas Premium para caligrafía y lettering con cuerpo ergonómicos",
+            "picture": "https://s3.amazonaws.com/bsalemarket/79042/product/alb00874default.jpeg",
+            "price": 29500,
+            "stock": 1,
+            "category_id": 1,
+            "brand_id": 9
+        }
+    },
+    {
+        "product":{
+            "name": "Estuche Con Forma De Pescado",
+            "description": "Si es que alguna vez necesitaste (o no) un estuche con forma de pescado, ya está aquí",
+            "picture": "https://m.media-amazon.com/images/I/616iL7aAKOL.jpg",
+            "price": 4990,
+            "stock": 20,
+            "category_id": 5,
+            "brand_id": 8
+        }
+    },
+    {
+        "product":{
+            "name": "Prismacolor Premier Soft Core ",
+            "description": "Los lápices de color profesionales Prismacolor Premier están diseñados para realizar trabajos detallados y son ideales para estudiantes y artistas avanzados",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/b4/1/prismacolor-premier-soft-core-lapices-de-colores-set-de-132-4e9/Prismacolor-Premier-Soft-Core-(Lapices-de-Colores)-Set-de-132-31.jpg",
+            "price": 214000,
+            "stock": 2,
+            "category_id": 1,
+            "brand_id": 5
+        }
+    },
+    {
+        "product":{
+            "name": "Sculpey Original- Blanca 8 Lb (3.6 Kg)",
+            "description": "La arcilla polimérica Sculpey Original funciona y se siente como la arcilla cerámica normal con toda la capacidad de moldeo y flexibilidad",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/2f/7/sculpey-original-blanca-8-lb-36-kg-0f2/Sculpey-Original-Blanca-8-lb-(3.6-kg)-32.jpg",
+            "price": 79990,
+            "stock": 2,
+            "category_id": 4,
+            "brand_id": 7
+        }
+    },
+    {
+        "product":{
+            "name": "Adix Perforadora De Esquinas Rectas Triple",
+            "description": "Perforadora de equina ideal para manualidades y decoración",
+            "picture": "https://sublix.cl/wp-content/uploads/2023/02/0136.jpg",
+            "price": 9990,
+            "stock": 5,
+            "category_id": 3,
+            "brand_id": 6
+        }
+    },
+    {
+        "product":{
+            "name": "Position Paleta Mezcladora Rectangular Metalizada",
+            "description": "Accesorio indispensable para pintura en acrílico y temperas",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/1d/9/position-paleta-mezcladora-rectangular-metalizada-12-espacios-eb2/Position-Paleta-mezcladora-rectangular-metalizada-12-espacios-31.png",
+            "price": 3990,
+            "stock": 9,
+            "category_id": 2,
+            "brand_id": 6
+        }
+    },
+    {
+        "product":{
+            "name": "Van Gogh Óleo 200ml",
+            "description": "El óleo Van Gogh es muy agradable de usar, la pintura se mezcla y trabaja con gran facilidad",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/33/c/van-gogh-oleo-200ml-7-colores-disponibles-686/Van-Gogh-oleo-200ml-(7-Colores-disponibles)-31.png",
+            "price": 19490,
+            "stock": 3,
+            "category_id": 2,
+            "brand_id": 8
+        }
+    },
+    {
+        "product":{
+            "name": "Canson XL Aquarelle ARTBOOK A5",
+            "description": " Las croqueras Canson® XL® Aquarelle garantizan la calidad adecuada para pintar acuarelas y una gran variedad de técnicas húmedas",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/1c/e/canson-xl-aquarelle-artbook-a5-148-x-21-cm-68-paginas-blancas-de-300-gsm-1f5/Canson-XL-Aquarelle-ARTBOOK-A5-(14,8-x-21-cm)-68-Paginas-Blancas-de-300-Gsm-33.png",
+            "price": 11990,
+            "stock": 5,
+            "category_id": 6,
+            "brand_id": 8
+        }
+    },
+    {
+        "product":{
+            "name": "Plumilla G Flexible 3 Unidades",
+            "description": "Plumilla o plumín tipo G flexible, Ideal para manga o cómic, así como también para dibujo y escritura",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/e8/0/plumilla-g-flexible-3-unidades-975/Plumilla-G-flexible-3-unidades-31.jpg",
+            "price": 2300,
+            "stock": 9,
+            "category_id": 1,
+            "brand_id": 6
+        }
+    },
+    {
+        "product":{
+            "name": "DELETER Manga Tool Kit SPDX",
+            "description": "Este es un kit de herramientas para principiantes quienes quieren empezar a hacer su propio manga, pero ya con todo lo que necesitas!",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/14/a/deleter-manga-tool-kit-spdx-especial-deluxe-989/DELETER-Manga-Tool-Kit-SPDX-(Especial-Deluxe)-31.png",
+            "price": 112990,
+            "stock": 4,
+            "category_id": 1,
+            "brand_id": 8
+        }
+    },
+
+    {
+        "product": {
+            "name": "Plumilla para Caligrafía",
+            "description": "Plumilla de calidad premium para caligrafía y escritura artística",
+            "picture": "https://ae01.alicdn.com/kf/S54ea182915c14273b61e4a358cd30667h/Schneider-pluma-estilogr-fica-Creactiv-para-estudiantes-pluma-de-Arte-de-caligraf-a-para-pr-ctica.jpg",
+            "price": 6990,
+            "stock": 15,
+            "category_id": 1,
+            "brand_id": 2
+        }
+    },
+    {
+        "product": {
+            "name": "Kit de Acuarelas de Viaje",
+            "description": "Set compacto de acuarelas portátiles para pintura en exteriores",
+            "picture": "https://dojiw2m9tvv09.cloudfront.net/60751/product/wdqsethp126318.jpg",
+            "price": 18990,
+            "stock": 8,
+            "category_id": 2,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Marcadores de Pizarra Blanca",
+            "description": "Conjunto de marcadores de colores vivos para pizarras blancas y superficies no porosas",
+            "picture": "https://www.tiendita.cl/wp-content/uploads/2022/10/MARJMI002_1.jpg",
+            "price": 3490,
+            "stock": 25,
+            "category_id": 3,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Escultura de Arcilla para Modelado",
+            "description": "Arcilla suave y maleable para modelado de figuras y esculturas detalladas",
+            "picture": "https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/42/a/das-pasta-para-modelar-secado-al-aire-blanca-500-gr-c98/DAS-Pasta-para-Modelar-(Secado-al-Aire)-Blanca-500-gr-30.png",
+            "price": 15990,
+            "stock": 6,
+            "category_id": 4,
+            "brand_id": 7
+        }
+    },
+    {
+        "product": {
+            "name": "Set de Pinceles de Maquillaje",
+            "description": "Colección de pinceles de maquillaje profesional para aplicaciones precisas y suaves",
+            "picture": "https://m.media-amazon.com/images/I/717bZab14dL._AC_UF1000,1000_QL80_.jpg",
+            "price": 8990,
+            "stock": 12,
+            "category_id": 6,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Lápices de Colores Metálicos",
+            "description": "Set de lápices de colores con acabado metálico para resaltar tus obras de arte",
+            "picture": "https://s3.amazonaws.com/bsalemarket/28201/product/2521068foto1.jpg",
+            "price": 4990,
+            "stock": 20,
+            "category_id": 1,
+            "brand_id": 5
+        }
+    },
+    {
+        "product": {
+            "name": "Tijeras de Papel Decorativas",
+            "description": "Tijeras con patrones decorativos para recortes precisos y creativos en papel",
+            "picture": "https://ae01.alicdn.com/kf/Sc17b98ebd04346b7a48aeef1a751a90dZ.jpg_640x640q90.jpg",
+            "price": 1290,
+            "stock": 30,
+            "category_id": 3,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Maletín de Pintura al Óleo",
+            "description": "Maletín completo con pinturas al óleo de alta calidad y accesorios para artistas",
+            "picture": "https://www.artel.cl/wp-content/uploads/2020/11/26000010-maleta-grande-oleos-artel.jpg",
+            "price": 34990,
+            "stock": 5,
+            "category_id": 2,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Bloc de Dibujo A4",
+            "description": "Bloc de dibujo con papel de calidad para bocetos y estudios artísticos",
+            "picture": "https://cache3.materialescolar.es/3081907-large_default/bloc-de-dibujo-din-a4-espiral-basik-canson-20461.jpg",
+            "price": 5990,
+            "stock": 18,
+            "category_id": 1,
+            "brand_id": 8
+        }
+    },
+    {
+        "product": {
+            "name": "Pegamento para Manualidades",
+            "description": "Adhesivo multiusos para manualidades, proyectos escolares y decoración",
+            "picture": "https://www.coloranimal.cl/10185-large_default/pegamento-glitter-elmers-para-manualidades-177ml-.jpg",
+            "price": 1990,
+            "stock": 40,
+            "category_id": 3,
+            "brand_id": 8
+        }
+    }    
+    
 ]

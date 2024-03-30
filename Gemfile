@@ -47,3 +47,5 @@ group :development do
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
 
+
+gem "rack-cors", "~> 2.0"

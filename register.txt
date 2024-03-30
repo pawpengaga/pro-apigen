@@ -4,3 +4,41 @@ rails g scaffold product name:string description:text brand:string picture:strin
 rails g scaffold brand name:string
 rails generate migration RemoveBrandFromProducts
 rails g migration AddBrandReferenceToProducts brand:references
+
+Ideas for products
+
+//Constructor
+
+name:
+description:
+picture:
+price:
+stock:
+category:
+brand:
+
+//Objects
+
+name: Rotring Art Pen
+description: Plumas Premium para caligrafía y lettering con cuerpo ergonómico.
+picture: https://s3.amazonaws.com/bsalemarket/79042/product/alb00874default.jpeg
+price: 29500
+stock: 1
+category: Drawing
+brand: Rotring
+
+name: Estuche Con Forma De Pescado
+description: Si es que alguna vez necesitaste (o no) un estuche con forma de pescado, ya está aquí.
+picture: https://m.media-amazon.com/images/I/616iL7aAKOL.jpg
+price: 4990
+stock: 20
+category: Storage
+brand: Generic
+
+name: Prismacolor Premier Soft Core 
+description: Los lápices de color profesionales Prismacolor Premier están diseñados para realizar trabajos detallados y son ideales para estudiantes y artistas avanzados.
+picture: https://www.cromarti.cl/media/extendware/ewimageopt/media/inline/b4/1/prismacolor-premier-soft-core-lapices-de-colores-set-de-132-4e9/Prismacolor-Premier-Soft-Core-(Lapices-de-Colores)-Set-de-132-31.jpg
+price: 214000
+stock: 2
+category: Drawing
+brand: Prismacolor

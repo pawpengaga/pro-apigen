@@ -1,1 +1,1 @@
-curl -X GET http://localhost:3000/categories | jq .
+curl -X GET http://localhost:3000/products | jq .

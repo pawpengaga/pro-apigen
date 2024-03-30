@@ -1,24 +1,3 @@
-# README
+# Api Generator 🔥
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This program generates a simple CRUD API for study purposes, it's made in Ruby on Rails and it's only purpose is to serve data for a very specific vanilla Js page of my creation.
