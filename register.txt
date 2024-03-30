@@ -1,0 +1,2 @@
+rails g scaffold category name:string
+rails g scaffold product name:string description:text brand:string picture:string price:integer stock:integer category:references
